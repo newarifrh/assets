@@ -1,0 +1,25 @@
+{
+    "name": "LESLAR Metaverse",
+    "website": "https://www.leslarmetaverse.com",
+    "description": "LESLAR Metaverse is a cyber future themed digital world. Where every person in the metaverse can meet, communicate, play, work, and even compete virtually. Leslar Metaverse connects real-world businesses with the digital world creating a sustainable economic ecosystem. There are four main business pillars in Leslar Metaverse, which consist of gaming, staking, merchandising and education.",
+    "explorer": "https://bscscan.com/token/0x0F2420fC7ce2446C35CD37F514486aa88D703bC3",
+    "type": "BEP20",
+    "symbol": "LESLAR",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x0F2420fC7ce2446C35CD37F514486aa88D703bC3",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/leslarmetaverse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Leslarmetaverse"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/HRgUAjyJUk"
+        }
+    ]
+}
